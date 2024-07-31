@@ -37,7 +37,7 @@
             bindings = <
 &kp TILDE  &kp N1        &kp N2        &kp N3        &kp N4        &kp N5          &kp N6     &kp N7          &kp N8            &kp N9             &kp N0         &kp BSPC
 &kp TAB    &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4    &trans     &kp UP_ARROW    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH  &trans
-&kp LSHFT  &trans        &trans        &trans        &trans        &trans          &kp LEFT   &kp DOWN_ARROW  &kp RIGHT         &kp MINUS          &kp PLUS       &to 0
+&kp LSHFT  &trans        &trans        &trans        &trans        &trans          &kp LEFT   &kp DOWN_ARROW  &kp RIGHT         &kp MINUS          &kp EQUAL      &to 0
                                        &kp LCTRL     &kp LGUI      &kp SPACE       &kp SPACE  &kp ENTER       &kp RALT
             >;
         };
