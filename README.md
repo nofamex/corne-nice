@@ -64,5 +64,4 @@ Dengan begitu, Anda hanya perlu mengganti slot saat berpindah perangkat.
 
 NOTES !!!
 
-
-Saat charging indicator di Board harus Steady biru (tidak blinking) fungsi silder memutuskan arus dari baterai ke MCU. Jadi saat charge posisi slider harus on
+Saat charging indicator di Board harus Steady biru (tidak blinking). fungsi slider memutuskan arus dari baterai ke MCU. Jadi saat charge posisi slider harus on
